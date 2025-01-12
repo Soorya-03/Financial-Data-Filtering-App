@@ -10,6 +10,7 @@ from datetime import datetime
 
 #items = response.json()
 #currently just pasted the api items(since there are only 5 elements, this isnt an issue), so app can run when shared without the api key.
+#I wouldnt normally do this, only did it to keep the app running without sharing the api key.
 items = [
     {
         "date": "2024-09-28",
